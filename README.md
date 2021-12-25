@@ -1,10 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Tribute-Page
 
 > This project consists of building a tribute page, to understand the use of css frameworks, in this project i used HTML5/CSS3 for making the front-end of this web-site and i wanted to know how HTML5/CSS3 works.
 
-![Alt text](https://github.com/Fanger53/News-Week/blob/master/assets/images/ss.PNG)
+![Alt text](https://github.com/abdullah-FullStackDev/tribute-page/blob/main/assets/ss.png)
 
 ## Built With
 
