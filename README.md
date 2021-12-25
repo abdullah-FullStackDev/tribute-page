@@ -18,7 +18,7 @@ The project is public.
 
 ## Authors
 
-👤 **Hamayun**
+👤 **Abdullah**
 
 - Github: [@githubhandle](https://github.com/abdullah-FullStackDev)
 
