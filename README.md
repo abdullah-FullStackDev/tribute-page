@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://abdullah-fullstackdev.github.io/tribute-page/)
+[Live Demo Link]()
 
 ## Getting Started
 
